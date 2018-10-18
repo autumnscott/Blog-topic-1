@@ -5,4 +5,4 @@ I am planning on creating a land consulting blog where I will discuss weekly tip
  ## Blog outline
  - Blog 1 will be about TSI (timber stand improvement). I will discuss how to select desired tree species to develop healthier timber stands for the average land owner whether that be 1 acre of timber or 500 acres of timber.
 - Blog 2 will be about creating more available forage for wild game species on your property. I will talk about several ways to increase the amount of available forage. ex: food plots, planting certain trees that provide nutrition (Oaks, persimmons, fruit trees, etc.)
-- Blog 3 will be about utilizing hunting methods as a way to supress the exponential population growth of of whitetail deer on your property this fall. I will discuss how high numbers of various wildlife species can have a neggative affect on the health of your property.
+- Blog 3 will be about utilizing hunting methods as a way to supress the exponential population growth of of whitetail deer on your property this fall. I will discuss how high numbers of various wildlife species can have a neggative impact on the health of your property.
